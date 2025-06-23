@@ -161,6 +161,7 @@ public class RpgMainWork {
 					System.out.println("[Vida máxima = " + playerHealth + "]");
 				}
 			}
+			//ATTACK/DEFENSE_SYSTEM
 			if (enemyUlt == 6) {
 				enemyAttack = random.nextInt(1, 4);
 				if (enemyUlt > 6) {
